@@ -1,0 +1,7 @@
+{
+  "appId": "com.secondbrain.app",
+  "appName": "Second Brain",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
